@@ -13,8 +13,7 @@ st.subheader('Tetap semangat')
 st.subheader('Supply Chain Departement')
 st.subheader('Cikarang Plant')
 
-option = st.sidebar.selectbox('absensi.py', 'Member.py')
-option = st.link_button('absensi.py', 'Member.py')
+
 
 
 
